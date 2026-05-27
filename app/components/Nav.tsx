@@ -20,7 +20,7 @@ export default function Nav() {
             </li>
           ))}
         </ul>
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="nav-resume">
+        <a href="/Utkarsh_Mittal_Resume.pdf" target="_blank" rel="noopener noreferrer" className="nav-resume">
           resume ↗
         </a>
       </div>

@@ -63,7 +63,7 @@ export default function Hero() {
             </p>
             <div className="hero-ctas">
               <a href="#projects" className="btn btn-primary">View projects</a>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
+              <a href="/Utkarsh_Mittal_Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
                 <FileText size={13} />Resume
               </a>
               <a href={meta.github} target="_blank" rel="noopener noreferrer" className="btn btn-ghost">

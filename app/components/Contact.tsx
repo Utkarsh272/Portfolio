@@ -30,7 +30,7 @@ export default function Contact() {
                 <a href={`mailto:${meta.email}`} className="btn btn-primary">
                   <Mail size={13} />Send email
                 </a>
-                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
+                <a href="/Utkarsh_Mittal_Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
                   <FileText size={13} />Download resume
                 </a>
               </div>
